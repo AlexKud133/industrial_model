@@ -1,4 +1,4 @@
-system;02mar23;03apr23;low_white;Yield_in_%;Yield_in_kg
+system;02mar23;03apr23;low_white;Yield;Yield_kg
 В1А_L;56.8;52.8;0.0;0.0223;1.050
 В2В_R;52.1;51.5;0.0;0.0319;1.503
 В2В_L;58.4;53.2;0.0;0.0321;1.513
